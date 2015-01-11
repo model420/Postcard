@@ -13,6 +13,8 @@
 		7564F1D51A61E86C006FF191 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7564F1D41A61E86C006FF191 /* Images.xcassets */; };
 		7564F1D81A61E86C006FF191 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7564F1D61A61E86C006FF191 /* LaunchScreen.xib */; };
 		7564F1E41A61E86C006FF191 /* postTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7564F1E31A61E86C006FF191 /* postTests.swift */; };
+		7564F1EF1A61E9CA006FF191 /* 1046px-Sagfampassion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7564F1ED1A61E9CA006FF191 /* 1046px-Sagfampassion.jpg */; };
+		7564F1F01A61E9CA006FF191 /* depositphotos_51367349-Albert-Einstein-Stamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7564F1EE1A61E9CA006FF191 /* depositphotos_51367349-Albert-Einstein-Stamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		7564F1DD1A61E86C006FF191 /* postTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = postTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7564F1E21A61E86C006FF191 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7564F1E31A61E86C006FF191 /* postTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = postTests.swift; sourceTree = "<group>"; };
+		7564F1ED1A61E9CA006FF191 /* 1046px-Sagfampassion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1046px-Sagfampassion.jpg"; sourceTree = "<group>"; };
+		7564F1EE1A61E9CA006FF191 /* depositphotos_51367349-Albert-Einstein-Stamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "depositphotos_51367349-Albert-Einstein-Stamp.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +84,8 @@
 				7564F1CD1A61E86C006FF191 /* AppDelegate.swift */,
 				7564F1CF1A61E86C006FF191 /* ViewController.swift */,
 				7564F1D11A61E86C006FF191 /* Main.storyboard */,
+				7564F1ED1A61E9CA006FF191 /* 1046px-Sagfampassion.jpg */,
+				7564F1EE1A61E9CA006FF191 /* depositphotos_51367349-Albert-Einstein-Stamp.jpg */,
 				7564F1D41A61E86C006FF191 /* Images.xcassets */,
 				7564F1D61A61E86C006FF191 /* LaunchScreen.xib */,
 				7564F1CB1A61E86C006FF191 /* Supporting Files */,
@@ -194,7 +200,9 @@
 			files = (
 				7564F1D31A61E86C006FF191 /* Main.storyboard in Resources */,
 				7564F1D81A61E86C006FF191 /* LaunchScreen.xib in Resources */,
+				7564F1F01A61E9CA006FF191 /* depositphotos_51367349-Albert-Einstein-Stamp.jpg in Resources */,
 				7564F1D51A61E86C006FF191 /* Images.xcassets in Resources */,
+				7564F1EF1A61E9CA006FF191 /* 1046px-Sagfampassion.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
